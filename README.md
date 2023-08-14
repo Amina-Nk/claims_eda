@@ -12,4 +12,4 @@ PAYER - an insurance company
 PAID_AMOUNT - sum of expenses (claims), $
 
 Requirements:
-Insurance claims EDA Nikishina.ipynb can be opened and launched by Jupyter notebook or VSCode editors with Python 3 environment. 
+Insurance_claims_EDA_Nikishina.ipynb can be opened and launched by Jupyter notebook or VSCode editors with Python 3 environment. 
